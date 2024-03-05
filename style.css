@@ -1,0 +1,54 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: lightblue;
+  border-style: solid;
+  border-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #c66c87;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-style: solid;
+}
+
+.label.category-select {
+  font-weight: bold;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+img {
+  max-width: "20%" height="auto"
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.intro {
+  display: contents;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.input-section {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  width: 100;
+}
+
+th {
+  text-align: center;
+}
