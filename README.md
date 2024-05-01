@@ -1,0 +1,1 @@
+My team and I came up with a budgeting app where users can input a category such as gas, groceries, or clothing. Our built-in calculator using JavaScript displays the total amount they spent. Additionally, the user can also input the date.
